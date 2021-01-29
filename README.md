@@ -34,6 +34,25 @@ Kyrgyz-Turkish Manas University
 
 :partying_face:
 
+#### 1. CardBazaar 
+ ![Image of CardBazaar](https://play-lh.googleusercontent.com/tYpXIGKMdfpzXcZlJuSZLW7dlHWNx61Vb2C8Se1AtovrnTqatS3Wosto7WEizFQxpw=s180)
+
+* CardBazaar is an online second hand gift card marketplace where you can sell unwanted gift cards for cash or buy discounted gift cards to all your favorite stores. *
+
+##### Technologies and tools: 
+* Kotlin multi-module project
+* Architecture: MVVM Single Activity
+* Koin as DI
+* Cicerone for navigation
+* Coroutines, Flow
+* Retrofit
+* Coil
+ 
+[Cardbazaar Website](https://cardbazaar.com)
+
+[CardBazaar App on Play Market](https://play.google.com/store/apps/details?id=com.cardbazaar)
+
+
  #### 1. GiftPay 
  ![Image of GiftPay](https://play-lh.googleusercontent.com/7gK3Z3e8RnD1UTDdZlwUi6InE6bEYAmu3lh67Tu3v9WtmSxS4mD7bG3-uPwtieaDsYHj=s180)
 
