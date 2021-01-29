@@ -53,7 +53,7 @@ Kyrgyz-Turkish Manas University
 [CardBazaar App on Play Market](https://play.google.com/store/apps/details?id=com.cardbazaar)
 
 
- #### 1. GiftPay 
+ #### 2. GiftPay 
  ![Image of GiftPay](https://play-lh.googleusercontent.com/7gK3Z3e8RnD1UTDdZlwUi6InE6bEYAmu3lh67Tu3v9WtmSxS4mD7bG3-uPwtieaDsYHj=s180)
 
 *For certain businesses, the traditional banking system can be a real hassle to deal with. GiftPay is the worlds first and only alternative decentralized online payment system that works with gift cards and cryptocurrency.*
@@ -71,7 +71,7 @@ Kyrgyz-Turkish Manas University
 
 [GiftPay App on Play Market](https://play.google.com/store/apps/details?id=me.giftpay.app)
 
- ##### 2. Rayyan 
+ ##### 3. Rayyan 
  
 ![Image of Rayyan](https://play-lh.googleusercontent.com/Ve43zI2mLg3kaz-oRlvABiOfUWnMFApZiOv4jn9e6Tw_p8BlOuDPXFdoTc5wT7Fh8A=s180)
 
@@ -86,7 +86,7 @@ Kyrgyz-Turkish Manas University
 
 [Rayyan App on Play Market](https://play.google.com/store/apps/details?id=kz.alfanet.rayyan2)
 
- #### 3. Mylistory 
+ #### 4. Mylistory 
 
 ![Image of Rayyan](https://play-lh.googleusercontent.com/qlrJN6zxK-QjIIrvHHLXWzfBda0TcOqxOy3cKa4xIyF342YUXn6tWPz4Ua4kjKsT55Lv=s180)
 
@@ -102,7 +102,7 @@ Kyrgyz-Turkish Manas University
 
 [Mylistory App on Play Market](https://play.google.com/store/apps/details?id=com.mylistory.android&hl=ru)
 
- #### 4. Kenguroo 
+ #### 5. Kenguroo 
  
 ![Image of Kenguroo](https://play-lh.googleusercontent.com/DL03B3wdoz43G27yw6yE9TEl-NiKI6Qnecg4cq7pvETEBNUEbgtHmcbf_PdPFUGO-iE=s180)
 
@@ -121,7 +121,7 @@ Kyrgyz-Turkish Manas University
 
 [Kenguroo App on Play Market](https://play.google.com/store/apps/details?id=kg.kenguru.app)
 
- #### 5. MyDom 
+ #### 6. MyDom 
 
  ![Image of Mydom](https://play-lh.googleusercontent.com/QFF6xD37-Kz_WhdNFqb-5XEaLSKOnascyox3sztEcOagNBOra59UeHkbr2CHhLxICVE=s180)
 
