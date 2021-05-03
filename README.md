@@ -2,7 +2,7 @@
 
 #### About:
 
-I'm experienced Android/Flutter Software Engineer, skilled in building native mobile applications with Java, Kotlin and cross-platform solutions on Flutter. Quick learner, great team player, and result-driven. I always try to follow best practices and use latest technologies to build high-quality solutions. Interested in Data Science/ML and Finance.  Flutter fan. 
+I'm experienced Android/Flutter Software Engineer, skilled in building native mobile applications with Java, Kotlin. Quick learner, great team player, and result-driven. I always try to follow best practices and use latest technologies to build high-quality solutions. Interested in Data Science/ML and Finance. 
 
 ### Skills:
 
@@ -40,7 +40,7 @@ Kyrgyz-Turkish Manas University
 *CardBazaar is an online second hand gift card marketplace where you can sell unwanted gift cards for cash or buy discounted gift cards to all your favorite stores.*
 
 ##### Technologies and tools: 
-* Kotlin multi-module project
+* Kotlin mono-module project
 * Architecture: MVVM Single Activity
 * Koin as DI
 * Cicerone for navigation
@@ -71,8 +71,28 @@ Kyrgyz-Turkish Manas University
 
 [GiftPay App on Play Market](https://play.google.com/store/apps/details?id=me.giftpay.app)
 
- ##### 3. Rayyan 
+ ##### 3. MySureFit
+ ![Image of MySureFit](https://play-lh.googleusercontent.com/iFH-26-q89N65u-llv3j4mGCHLlCtHqw9Lf3DXv4Yc3wfLLvSpkg-NWIgEUAuRSRPCM=s180-rw)
  
+ *MYSUREFIT makes sure your clothes fit perfectly — before you buy them, and they arrive at your door. It all starts with a selfie. In this app, you’ll answer some questions, take some selfies to get perfectly calibrated fit recommendations across thousands of brands and styles. Easy, quick and totally secure, it’s time to ditch the dressing room and step into MYSUREFIT.*
+
+##### Technologies and tools: 
+* Language: Kotlin
+* Architecture: MVVM
+* Dependency Injection: Koin
+* Navigation: Cicerone
+* Multithreading: Coroutines
+* Network: Retrofit
+* Mobile app attribution and analytics: Kochava, AppsFlyer
+* Object detection: Tensorflow
+
+[MySureFit Website](https://mysurefit.com/)
+
+[MySureFit App on Play Market](https://play.google.com/store/apps/details?id=com.mysurefit.surefit)
+
+
+ ##### 4. Rayyan 
+
 ![Image of Rayyan](https://play-lh.googleusercontent.com/Ve43zI2mLg3kaz-oRlvABiOfUWnMFApZiOv4jn9e6Tw_p8BlOuDPXFdoTc5wT7Fh8A=s180)
 
 *Mobile application where you can act in several directions: trade, police, car market, and more.*
@@ -86,7 +106,7 @@ Kyrgyz-Turkish Manas University
 
 [Rayyan App on Play Market](https://play.google.com/store/apps/details?id=kz.alfanet.rayyan2)
 
- #### 4. Mylistory 
+ #### 5. Mylistory 
 
 ![Image of Rayyan](https://play-lh.googleusercontent.com/qlrJN6zxK-QjIIrvHHLXWzfBda0TcOqxOy3cKa4xIyF342YUXn6tWPz4Ua4kjKsT55Lv=s180)
 
@@ -102,7 +122,7 @@ Kyrgyz-Turkish Manas University
 
 [Mylistory App on Play Market](https://play.google.com/store/apps/details?id=com.mylistory.android&hl=ru)
 
- #### 5. Kenguroo 
+ #### 6. Kenguroo 
  
 ![Image of Kenguroo](https://play-lh.googleusercontent.com/DL03B3wdoz43G27yw6yE9TEl-NiKI6Qnecg4cq7pvETEBNUEbgtHmcbf_PdPFUGO-iE=s180)
 
@@ -121,7 +141,7 @@ Kyrgyz-Turkish Manas University
 
 [Kenguroo App on Play Market](https://play.google.com/store/apps/details?id=kg.kenguru.app)
 
- #### 6. MyDom 
+ #### 7. MyDom 
 
  ![Image of Mydom](https://play-lh.googleusercontent.com/QFF6xD37-Kz_WhdNFqb-5XEaLSKOnascyox3sztEcOagNBOra59UeHkbr2CHhLxICVE=s180)
 
