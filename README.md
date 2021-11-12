@@ -39,85 +39,7 @@ Kyrgyz-Turkish Manas University
 :partying_face:
 
 
-#### 1. Talinity
- ![Image of Talinity](https://play-lh.googleusercontent.com/mAn6_IUFA0GwNPP7jcKqPt0UaZcVsjQBrJtIKjZFtYxirCs9RUw4znaql42rMzWYyQ=s180-rw)
-
-*Talinity is the hire by referral community to help you and your friends and colleagues find the perfect job.*
-
-##### Technologies and tools: 
-* Kotlin mono-module project
-* Architecture: MVVM Single Activity
-* Koin as DI
-* Cicerone for navigation
-* Coroutines, Flow
-* Retrofit
-* Coil
-* Sentry for application monitoring and error tracking
-* Custom views
-
- 
-[Talinity Website](https://talinity.com/)
-
-
-#### 2. CardBazaar 
- ![Image of CardBazaar](https://play-lh.googleusercontent.com/tYpXIGKMdfpzXcZlJuSZLW7dlHWNx61Vb2C8Se1AtovrnTqatS3Wosto7WEizFQxpw=s180)
-
-*CardBazaar is an online second hand gift card marketplace where you can sell unwanted gift cards for cash or buy discounted gift cards to all your favorite stores.*
-
-##### Technologies and tools: 
-* Kotlin
-* Architecture: MVVM
-* Koin as DI
-* Cicerone for navigation
-* Coroutines, Flow
-* Retrofit
-* Coil
-
- 
-[Cardbazaar Website](https://cardbazaar.com)
-
-[CardBazaar App on Play Market](https://play.google.com/store/apps/details?id=com.cardbazaar)
-
-
- #### 3. GiftPay 
- ![Image of GiftPay](https://play-lh.googleusercontent.com/7gK3Z3e8RnD1UTDdZlwUi6InE6bEYAmu3lh67Tu3v9WtmSxS4mD7bG3-uPwtieaDsYHj=s180)
-
-*For certain businesses, the traditional banking system can be a real hassle to deal with. GiftPay is the worlds first and only alternative decentralized online payment system that works with gift cards and cryptocurrency.*
-
-##### Technologies and tools: 
-* Kotlin multi-module project
-* Architecture: MVVM Single Activity
-* Koin as DI
-* Cicerone for navigation
-* Coroutines
-* Retrofit
-* Robolectric
- 
-[GiftPay Website](https://giftpay.io)
-
-[GiftPay App on Play Market](https://play.google.com/store/apps/details?id=me.giftpay.app)
-
- ##### 4. MySureFit
- ![Image of MySureFit](https://play-lh.googleusercontent.com/iFH-26-q89N65u-llv3j4mGCHLlCtHqw9Lf3DXv4Yc3wfLLvSpkg-NWIgEUAuRSRPCM=s180-rw)
- 
- *MYSUREFIT makes sure your clothes fit perfectly — before you buy them, and they arrive at your door. It all starts with a selfie. In this app, you’ll answer some questions, take some selfies to get perfectly calibrated fit recommendations across thousands of brands and styles. Easy, quick and totally secure, it’s time to ditch the dressing room and step into MYSUREFIT.*
-
-##### Technologies and tools: 
-* Language: Kotlin
-* Architecture: MVVM
-* Dependency Injection: Koin
-* Navigation: Cicerone
-* Multithreading: Coroutines
-* Network: Retrofit
-* Mobile app attribution and analytics: Kochava, AppsFlyer
-* Object detection: Tensorflow
-
-[MySureFit Website](https://mysurefit.com/)
-
-[MySureFit App on Play Market](https://play.google.com/store/apps/details?id=com.mysurefit.surefit)
-
-
- ##### 5. Rayyan 
+ ##### 1. Rayyan 
 
 ![Image of Rayyan](https://play-lh.googleusercontent.com/Ve43zI2mLg3kaz-oRlvABiOfUWnMFApZiOv4jn9e6Tw_p8BlOuDPXFdoTc5wT7Fh8A=s180)
 
@@ -132,7 +54,7 @@ Kyrgyz-Turkish Manas University
 
 [Rayyan App on Play Market](https://play.google.com/store/apps/details?id=kz.alfanet.rayyan2)
 
- #### 6. Mylistory 
+ #### 2. Mylistory 
 
 ![Image of Rayyan](https://play-lh.googleusercontent.com/qlrJN6zxK-QjIIrvHHLXWzfBda0TcOqxOy3cKa4xIyF342YUXn6tWPz4Ua4kjKsT55Lv=s180)
 
@@ -148,7 +70,7 @@ Kyrgyz-Turkish Manas University
 
 [Mylistory App on Play Market](https://play.google.com/store/apps/details?id=com.mylistory.android&hl=ru)
 
- #### 7. Kenguroo 
+ #### 3. Kenguroo 
  
 ![Image of Kenguroo](https://play-lh.googleusercontent.com/DL03B3wdoz43G27yw6yE9TEl-NiKI6Qnecg4cq7pvETEBNUEbgtHmcbf_PdPFUGO-iE=s180)
 
@@ -167,7 +89,7 @@ Kyrgyz-Turkish Manas University
 
 [Kenguroo App on Play Market](https://play.google.com/store/apps/details?id=kg.kenguru.app)
 
- #### 8. MyDom 
+ #### 4. MyDom 
 
  ![Image of Mydom](https://play-lh.googleusercontent.com/QFF6xD37-Kz_WhdNFqb-5XEaLSKOnascyox3sztEcOagNBOra59UeHkbr2CHhLxICVE=s180)
 
