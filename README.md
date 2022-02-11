@@ -4,6 +4,18 @@
 
 I'm experienced Android Software Engineer with more than 4 years of experience, skilled in building native mobile applications with Java, Kotlin. Quick learner, great team player, and result-driven. I always try to follow best practices and use latest technologies to build high-quality solutions. Interested in Data Science/ML and Finance. 
 
+* More than 10 published apps on Google Play
+
+* Contribution to development of apps that achieved over 1 million downloads and more than 300k active daily users
+
+* Successful leading of several mobile projects
+
+* Good communication skills
+
+* Successful migration from legacy code to modern technologies (Kotlin, Coroutines, Koin) in old project while keeping adding new features as business required. 
+
+* Resulted in cleaner code structure and better performance.
+
 ![](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif) 
 
 
@@ -24,6 +36,25 @@ I'm experienced Android Software Engineer with more than 4 years of experience, 
 ![Turkish](https://img.shields.io/badge/Turkish-3DDC84?style=for-the-badge&logo=turkish&logoColor=white&labelColor=101010)
 ![German](https://img.shields.io/badge/German-3DDC84?style=for-the-badge&logo=german&logoColor=white&labelColor=101010)
 
+
+### Work experience:
+
+##### Jun 2021 - Present
+Temabit Software Development - Full-Time - Remote
+Kiev, Ukraine
+
+
+##### Sep 2019 - Aug 2021 2 yrs
+Axel LLC - Full-Time
+Bishkek, Kyrgyzstan
+
+##### Aug 2019 - Apr 2020
+Yurtah.com - Contract, Remote
+New York, USA
+
+##### Jan 2018 - Sep 2019
+Teztap LLC - Full-Time
+Bishkek, Kyrgyzstan
 
 ### Education:
 
