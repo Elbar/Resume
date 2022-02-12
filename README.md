@@ -46,20 +46,32 @@ I'm experienced Android Software Engineer with more than 4 years of experience, 
 #### Frameworks and libraries:
 
 <p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-563D7C?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white" />
+
 </p>
 
-![Java](https://img.shields.io/badge/Java-3DDC84?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)
-![Kotlin](https://img.shields.io/badge/Kotlin-3DDC84?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)
-![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)
+#### Tools:
 
-![Git](https://img.shields.io/badge/Git-3DDC84?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
-![Firebase](https://img.shields.io/badge/Firebase-3DDC84?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)
-![Jira](https://img.shields.io/badge/Jira-3DDC84?style=for-the-badge&logo=jira&logoColor=white&labelColor=101010)
+<p>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
+  <img src="https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+</p>
+
+#### Languages:
+
 
 ![English](https://img.shields.io/badge/English-3DDC84?style=for-the-badge&logo=english&logoColor=white&labelColor=101010)
 ![Russian](https://img.shields.io/badge/Russian-3DDC84?style=for-the-badge&logo=russian&logoColor=white&labelColor=101010)
