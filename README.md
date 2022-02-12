@@ -1,6 +1,9 @@
-# Hi there, welcome to my Github! 👋🏼
+# Hi there! 👋🏼
 
-#### About:
+[![Header](https://www.taft.lk/assets/img/androiddevelopment/banner.jpg "Header")](https://www.creative-tim.com/)
+
+
+#### About me:
 
 I'm experienced Android Software Engineer with more than 4 years of experience, skilled in building native mobile applications with Java, Kotlin. Quick learner, great team player, and result-driven. I always try to follow best practices and use latest technologies to build high-quality solutions. Interested in Data Science/ML and Finance. 
 
@@ -16,10 +19,37 @@ I'm experienced Android Software Engineer with more than 4 years of experience, 
 
 * Resulted in cleaner code structure and better performance.
 
-![](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif) 
+
+#### My hobbies:
+
+ 🏊  Swimming
+ ⚽  Football
+ 📚  Reading  
 
 
-### Skills:
+
+### My experience:
+
+#### Programming languages:
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-3776AB?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+   <img src="https://img.shields.io/badge/Dart-3776AB?style=for-the-badge&logo=dart&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+</p>
+
+#### Frameworks and libraries:
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-563D7C?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</p>
 
 ![Java](https://img.shields.io/badge/Java-3DDC84?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)
 ![Kotlin](https://img.shields.io/badge/Kotlin-3DDC84?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)
@@ -36,6 +66,8 @@ I'm experienced Android Software Engineer with more than 4 years of experience, 
 ![Turkish](https://img.shields.io/badge/Turkish-3DDC84?style=for-the-badge&logo=turkish&logoColor=white&labelColor=101010)
 ![German](https://img.shields.io/badge/German-3DDC84?style=for-the-badge&logo=german&logoColor=white&labelColor=101010)
 
+
+![](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif) 
 
 ### Work experience:
 
